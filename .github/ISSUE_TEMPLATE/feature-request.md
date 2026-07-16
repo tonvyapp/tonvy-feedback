@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest something new or improved for Tonvy
+about: Suggest something new or improved for tonvy
 title: ""
 labels: feature-request
 assignees: ""
