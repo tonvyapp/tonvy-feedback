@@ -1,20 +1,19 @@
 # tonvy Feedback
 
-Feature requests and feedback for [tonvy](https://tonvy.app) — the music project organizer for macOS and iOS.
+Feature requests and bug reports for [Tonvy](https://tonvy.app) — the music project organizer for macOS and iOS.
 
-## How to submit a feature request
+## How to submit
 
-1. Click **New issue** above
-2. Choose the **Feature Request** template
-3. Describe what you'd like and why it matters to your workflow
-4. Submit — others can upvote by adding a thumbs-up reaction
+Click **New issue** above and choose a template:
+
+- **Feature request** — suggest something new or improved
+- **Bug report** — something broken or unexpected
 
 ## What not to post
 
-- **Bugs** — email [press@tonvy.app](mailto:press@tonvy.app) instead
 - **DAW project files or audio** — never attach sessions or stems to an issue
-- **Account or purchase issues** — contact [press@tonvy.app](mailto:press@tonvy.app)
+- **Purchase or account issues** — email [support@tonvy.app](mailto:support@tonvy.app)
 
 ## How prioritization works
 
-Issues with the most upvotes get the most attention. Not every request will be implemented, but every one is read.
+Feature requests with the most upvotes get the most attention. Not every request will be implemented, but every one is read.
