@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report something broken or unexpected in Tonvy
+about: Report something broken or unexpected in tonvy
 title: ""
 labels: bug
 assignees: ""
@@ -13,13 +13,13 @@ A clear description of the problem.
 What should have happened instead.
 
 **Steps to reproduce**
-1. Open Tonvy
+1. Open tonvy
 2. Go to...
 3. Tap...
 
 **Environment**
 - macOS or iOS:
-- Tonvy version:
+- tonvy version:
 - DAW(s) involved:
 
 **Screenshots or details**
