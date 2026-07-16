@@ -1,6 +1,6 @@
-# Tonvy Feedback
+# tonvy Feedback
 
-Feature requests and feedback for [Tonvy](https://tonvy.app) — the music project organizer for macOS and iOS.
+Feature requests and feedback for [tonvy](https://tonvy.app) — the music project organizer for macOS and iOS.
 
 ## How to submit a feature request
 
